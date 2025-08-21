@@ -108,6 +108,6 @@ ul li span{
     line-height: 40px;
     text-align: center;
 }
-ul li span{
+ul li span:hover{
     background:#edeef0 ;
 }
