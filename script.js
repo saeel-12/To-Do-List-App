@@ -15,6 +15,7 @@ function addTask() {
         li.appendChild(span);
     }
     inputBox.value="";
+    saveData();
     
 }
 
